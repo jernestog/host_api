@@ -11,14 +11,14 @@
     "name": "Hotel Belle Époque",
     "description": "Charming boutique hotel in the center of Paris with vintage decor.",
     "address": "12 Rue des Lilas, Paris, France",
-    "img": "https://source.unsplash.com/featured/?hotel,2"
+    "img": "https://pixabay.com/photos/swimming-pool-outdoor-hotel-2386261/"
   },
   {
     "id": "3",
     "name": "Alpine View Lodge",
     "description": "Mountain-side lodge offering stunning views and fresh alpine air.",
     "address": "77 Bergstraße, Innsbruck, Austria",
-    "img": "https://source.unsplash.com/featured/?hotel,3"
+    "img": "https://pixabay.com/photos/window-house-inside-wood-luxury-3178666/"
   },
   {
     "id": "4",
