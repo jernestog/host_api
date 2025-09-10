@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "The Grand Oak Hotel",
+    "description": "A luxurious escape in the heart of Manhattan with timeless elegance.",
+    "address": "845 5th Avenue, New York, NY, USA",
+    "img": "https://source.unsplash.com/featured/?hotel,1"
+  },
+  {
+    "id": "2",
+    "name": "Hotel Belle Époque",
+    "description": "Charming boutique hotel in the center of Paris with vintage decor.",
+    "address": "12 Rue des Lilas, Paris, France",
+    "img": "https://source.unsplash.com/featured/?hotel,2"
+  },
+  {
+    "id": "3",
+    "name": "Alpine View Lodge",
+    "description": "Mountain-side lodge offering stunning views and fresh alpine air.",
+    "address": "77 Bergstraße, Innsbruck, Austria",
+    "img": "https://source.unsplash.com/featured/?hotel,3"
+  },
+  {
+    "id": "4",
+    "name": "Ocean Breeze Resort",
+    "description": "Seaside getaway perfect for beach lovers and families.",
+    "address": "201 Coastal Drive, Santa Monica, CA, USA",
+    "img": "https://source.unsplash.com/featured/?hotel,4"
+  },
+  {
+    "id": "5",
+    "name": "The Royal Crescent Inn",
+    "description": "Historic Georgian-style hotel with modern luxury.",
+    "address": "9 Royal Crescent, Bath, United Kingdom",
+    "img": "https://source.unsplash.com/featured/?hotel,5"
+  },
+  {
+    "id": "6",
+    "name": "Casa del Sol",
+    "description": "Mediterranean hotel with rooftop terraces and city views.",
+    "address": "58 Via del Mare, Rome, Italy",
+    "img": "https://source.unsplash.com/featured/?hotel,6"
+  },
+  {
+    "id": "7",
+    "name": "Urban Nest Hotel",
+    "description": "Modern downtown hotel perfect for business and leisure.",
+    "address": "315 W Madison St, Chicago, IL, USA",
+    "img": "https://source.unsplash.com/featured/?hotel,7"
+  },
+  {
+    "id": "8",
+    "name": "The Nordic Lights Hotel",
+    "description": "Scandinavian-inspired stay with views of the Northern Lights.",
+    "address": "4 Ljusgatan, Kiruna, Sweden",
+    "img": "https://source.unsplash.com/featured/?hotel,8"
+  },
+  {
+    "id": "9",
+    "name": "Hotel Riviera Azul",
+    "description": "Beachfront resort on the Spanish coast with ocean views.",
+    "address": "33 Calle del Sol, Valencia, Spain",
+    "img": "https://source.unsplash.com/featured/?hotel,9"
+  },
+  {
+    "id": "10",
+    "name": "The Maple Leaf Inn",
+    "description": "Cozy countryside inn with fireplaces and mountain charm.",
+    "address": "220 Pine Lane, Burlington, VT, USA",
+    "img": "https://source.unsplash.com/featured/?hotel,10"
+  },
+  {
+    "id": "11",
+    "name": "Berlin Central Suites",
+    "description": "Contemporary hotel located steps away from Berlin's landmarks.",
+    "address": "101 Alexanderplatz, Berlin, Germany",
+    "img": "https://source.unsplash.com/featured/?hotel,11"
+  },
+  {
+    "id": "12",
+    "name": "Highland Retreat Hotel",
+    "description": "Rustic highland hotel surrounded by nature and history.",
+    "address": "18 Glen Road, Inverness, United Kingdom",
+    "img": "https://source.unsplash.com/featured/?hotel,12"
+  }
+]
