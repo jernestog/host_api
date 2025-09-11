@@ -4,83 +4,83 @@
     "name": "The Grand Oak Hotel",
     "description": "A luxurious escape in the heart of Manhattan with timeless elegance.",
     "address": "845 5th Avenue, New York, NY, USA",
-    "img": "https://pixabay.com/photos/hotel-hotel-rooms-home-decoration-1749602/"
+    "img": "https://cdn.pixabay.com/photo/2016/10/18/09/02/hotel-1749602_1280.jpg"
   },
   {
     "id": "2",
     "name": "Hotel Belle Époque",
     "description": "Charming boutique hotel in the center of Paris with vintage decor.",
     "address": "12 Rue des Lilas, Paris, France",
-    "img": "https://pixabay.com/photos/swimming-pool-outdoor-hotel-2386261/"
+    "img": "https://cdn.pixabay.com/photo/2017/06/09/09/30/swimming-pool-2386261_640.jpg"
   },
   {
     "id": "3",
     "name": "Alpine View Lodge",
     "description": "Mountain-side lodge offering stunning views and fresh alpine air.",
     "address": "77 Bergstraße, Innsbruck, Austria",
-    "img": "https://pixabay.com/photos/window-house-inside-wood-luxury-3178666/"
+    "img": "https://cdn.pixabay.com/photo/2018/02/24/17/17/window-3178666_640.jpg"
   },
   {
     "id": "4",
     "name": "Ocean Breeze Resort",
     "description": "Seaside getaway perfect for beach lovers and families.",
     "address": "201 Coastal Drive, Santa Monica, CA, USA",
-    "img": "https://source.unsplash.com/featured/?hotel,4"
+    "img": "https://cdn.pixabay.com/photo/2021/06/01/12/39/beach-6301597_640.jpg"
   },
   {
     "id": "5",
     "name": "The Royal Crescent Inn",
     "description": "Historic Georgian-style hotel with modern luxury.",
     "address": "9 Royal Crescent, Bath, United Kingdom",
-    "img": "https://source.unsplash.com/featured/?hotel,5"
+    "img": "https://cdn.pixabay.com/photo/2020/02/01/06/12/upholstery-4809588_640.jpg"
   },
   {
     "id": "6",
     "name": "Casa del Sol",
     "description": "Mediterranean hotel with rooftop terraces and city views.",
     "address": "58 Via del Mare, Rome, Italy",
-    "img": "https://source.unsplash.com/featured/?hotel,6"
+    "img": "https://cdn.pixabay.com/photo/2016/11/18/22/21/restaurant-1837150_640.jpg"
   },
   {
     "id": "7",
     "name": "Urban Nest Hotel",
     "description": "Modern downtown hotel perfect for business and leisure.",
     "address": "315 W Madison St, Chicago, IL, USA",
-    "img": "https://source.unsplash.com/featured/?hotel,7"
+    "img": "https://cdn.pixabay.com/photo/2017/06/29/19/57/beverly-hills-hotel-2455977_640.jpg"
   },
   {
     "id": "8",
     "name": "The Nordic Lights Hotel",
     "description": "Scandinavian-inspired stay with views of the Northern Lights.",
     "address": "4 Ljusgatan, Kiruna, Sweden",
-    "img": "https://source.unsplash.com/featured/?hotel,8"
+    "img": "https://cdn.pixabay.com/photo/2021/08/27/01/33/bedroom-6577523_640.jpg"
   },
   {
     "id": "9",
     "name": "Hotel Riviera Azul",
     "description": "Beachfront resort on the Spanish coast with ocean views.",
     "address": "33 Calle del Sol, Valencia, Spain",
-    "img": "https://source.unsplash.com/featured/?hotel,9"
+    "img": "https://cdn.pixabay.com/photo/2017/01/28/19/31/landscape-2016308_640.jpg"
   },
   {
     "id": "10",
     "name": "The Maple Leaf Inn",
     "description": "Cozy countryside inn with fireplaces and mountain charm.",
     "address": "220 Pine Lane, Burlington, VT, USA",
-    "img": "https://source.unsplash.com/featured/?hotel,10"
+    "img": "https://cdn.pixabay.com/photo/2017/08/10/18/30/hotel-2626098_640.jpg"
   },
   {
     "id": "11",
     "name": "Berlin Central Suites",
     "description": "Contemporary hotel located steps away from Berlin's landmarks.",
     "address": "101 Alexanderplatz, Berlin, Germany",
-    "img": "https://source.unsplash.com/featured/?hotel,11"
+    "img": "https://cdn.pixabay.com/photo/2014/08/05/17/31/pool-410772_640.jpg"
   },
   {
     "id": "12",
     "name": "Highland Retreat Hotel",
     "description": "Rustic highland hotel surrounded by nature and history.",
     "address": "18 Glen Road, Inverness, United Kingdom",
-    "img": "https://source.unsplash.com/featured/?hotel,12"
+    "img": "https://cdn.pixabay.com/photo/2011/07/24/10/37/mauritius-8306_640.jpg"
   }
 ]
